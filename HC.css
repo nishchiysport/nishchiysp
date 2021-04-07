@@ -21,3 +21,7 @@ h4{
   top: 500px;
   left: 30px;
 }
+.title span {
+	padding: 0 10px;
+	background: rgba(37,219,237,0.8);
+}
