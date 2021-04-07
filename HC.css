@@ -5,6 +5,7 @@ h1{
   position: absolute;
   left: 900px;
   top: 225px;
+z-index: 1;
 }
 h2{
   position: absolute;
