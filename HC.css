@@ -1,6 +1,10 @@
+body{
+    background: #000000;
+   }
 h1{
   position: absolute;
   left: 560px;
+  top: 0px;
 }
 h2{
   position: absolute;
