@@ -1,5 +1,5 @@
 h1{
-  position: fixed;
+  position: absolute;
   top: 200px
   left: 300px;
 }
