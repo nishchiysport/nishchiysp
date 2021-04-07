@@ -1,5 +1,5 @@
 body{
-    background: #000000;
+    background: #FFFFFF;
    }
 h1{
   position: absolute;
@@ -20,8 +20,4 @@ h4{
   position: absolute;
   top: 500px;
   left: 0px;
-}
-h4{
-  padding: 20px;
-  background-color: #FFFFFF;
 }
